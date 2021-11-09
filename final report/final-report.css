@@ -1,0 +1,6 @@
+body.rtl {
+    direction: rtl;
+  }
+  .table.table{
+      width: 50%;
+  }
