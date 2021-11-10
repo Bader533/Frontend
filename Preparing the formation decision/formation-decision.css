@@ -1,0 +1,25 @@
+body.rtl {
+    direction: rtl;
+  }
+  div.row{
+      /* position: absolute; */
+      /* top: 50%; */
+      /* width: 60%; */
+      /* text-align: center; */
+      /* font-size: 18px; */
+      /* border: 3px solid #21241d; */
+  }
+  #num{
+      width: 40%;
+  }
+  #select{
+      margin-top: -25px;
+      margin-left: 10px;
+  }
+  .table.table{
+      width: 50%;
+  }
+#button{
+    margin-right: 80%;
+}
+ 
